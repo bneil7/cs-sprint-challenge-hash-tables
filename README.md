@@ -46,7 +46,7 @@ We expect you to be able to answer questions in these areas. Your responses cont
 
 Your finished project must include all of the following requirements:
 
-- [ ] Solve any three of the five problems
+- [x] Solve any three of the five problems
 
 For each problem that you choose to solve, complete the following:
 
